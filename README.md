@@ -1,5 +1,5 @@
 # TodoApplication
-This is a Todo Application. It is made using Springboot and Bootstrap, it's my first learning project from springboot 😊
+This is a Todo Application. It is made using Springboot and Bootstrap, it's my first learning project from springboot😊
 <br>
 <a href="https://www.in28minutes.com/">I did this project from the springboot course by in28Minutes(Ranga Karanam)</a>
 
